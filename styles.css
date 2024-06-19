@@ -54,3 +54,18 @@ body{
 input{
   display: none;
 }
+
+#seleccionar-ataque{
+  flex-direction: column;
+  align-items: center;
+}
+
+.boton-ataque{
+  width: 180px;
+  border-radius: 20px;
+  height: 40px;
+  background-color: transparent;
+  border: 1px solid white;
+  margin-top: 30px;
+  width: 100px;
+}
